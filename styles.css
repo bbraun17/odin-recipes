@@ -1,0 +1,12 @@
+/* styles.css */
+
+div {
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    color: rgb(21, 255, 0);
+    font-size: 100px;
+    font-family: Helvetica, sans-serif;
+}
